@@ -153,7 +153,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![pipe-char](https://github.com/tembo84/github-docs-example/assets/125076485/9fb5be4d-ba7c-4c5c-819e-7813f3457197)
 
-
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## External References
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/)
